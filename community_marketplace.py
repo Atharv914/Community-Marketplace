@@ -6,7 +6,7 @@ import datetime
 '''
 Created on Jul 15, 2024
 
-@author: Atharv Kundooi
+@author: Atharv Kundoori
 '''
 
 # Database setup
